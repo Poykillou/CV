@@ -1,0 +1,74 @@
+* {
+margin: 0;
+}
+
+body
+{
+    background: rgb(26, 2, 146);
+}
+
+.longRecn
+{
+    background-color: black;
+    height: 200px;
+    width: 10000px;
+    padding-left:100px;
+}
+.grandCarre
+{
+    background-color:red;
+    height: 500px;
+    width: 500px;
+}
+.moyCarre
+{
+    background-color: aqua;
+    height: 100%;
+    width: 400px;
+  
+}
+.longrecgris
+{
+    background-color: grey ;
+    height: 900px;
+    width: 400px;
+}
+ .margin
+{
+margin-right: 150px;
+}
+.align
+{
+justify-content: left;
+margin: 200px;
+}
+.flex
+{ 
+display: flex;
+}
+
+.column
+{
+flex-direction: column;
+}
+
+.circle
+{
+border-radius: 50%;
+}
+
+.center
+{
+justify-content:center
+}
+
+.info p {
+font-size:25px;
+line-height: 60px;
+}
+
+.aligntext
+{
+text-align:center
+}
+
